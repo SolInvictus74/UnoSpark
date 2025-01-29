@@ -15,4 +15,4 @@ No, you can reparent your BP to UnoSparkMain_Child (this file must be in your mo
 Just reparent your BP to ZeroSparkMain (However, if you have followed the steps correctly, UnoSpark does not cause any type of crash)
 
 # Can I help you create new functions for UnoSpark?
-Any help is appreciated!
+Any help is appreciated! DM me on discord (you can find me in Unreal Anime Mods server)
