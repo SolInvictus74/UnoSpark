@@ -4,9 +4,8 @@ UnoSpark is a library of advanced functions that is based on ZeroSpark. This lib
 # How Can I Use It?
 Download everything as a .zip file\
 Extract to a folder.\
-Copy the UnoSparkMain.uasset file to the Mods/Zerospark folder (within the UE5 project)\
-Create a child of UnoSparkMain and put this in your mod (for this tutorial I'm gonna name this child "UnoSparkMain_Child")\
-Create a child of UnoSparkMain_Child in your mod and use it as you normally use any ZeroSparkMain child
+Copy the UnoSparkMain.uasset file to  your mod\
+Create a child of UnoSparkMain in your mod and use it as you normally use any ZeroSparkMain child
 
 # I already have a BP mod that use Zerospark, do I need to recreate this mod in UnoSpark?
 No, you can reparent your BP to UnoSparkMain_Child (this file must be in your mod)
