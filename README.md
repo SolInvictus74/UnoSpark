@@ -1,5 +1,5 @@
 # UnoSpark
-UnoSpark is a library of advanced functions that is based on ZeroSpark. This library is designed for those who need access to more data and variables such as: Bullet Visual, Bullet Setting, and many more!
+UnoSpark is a library of advanced functions that is based on ZeroSpark. This library is designed for those who need access to more data and variables such as: Sort Id, Same Persons, Bullet Visual, Bullet Setting, and many more!
 
 # How Can I Use It?
 Download everything as a .zip file\
